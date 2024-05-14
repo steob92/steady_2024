@@ -1,5 +1,8 @@
 from steady_calculations.math_operations import add, div, mult, sub
 
+def test_code():
+    assert (add(1,2) == 3)
+    
 x = 13.4
 y = 23.4
 

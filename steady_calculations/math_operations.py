@@ -1,3 +1,5 @@
+import scipy as sc
+
 def add(x, y):
     """function to add x and y
 

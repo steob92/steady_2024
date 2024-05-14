@@ -1,6 +1,6 @@
 import scipy as sc
 import matplotlib.pyplot as plt
-
+import numpy as np
 
 def add(x, y):
     """function to add x and y
